@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center">📫 (내가 확인하면 기적에 가까운)연락: joon28412@gmail.com</p>
+<p align="center">📫 연락: joon28412@gmail.com</p>
