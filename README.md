@@ -1,6 +1,6 @@
 <h1 align="center">🍋 LemonMint Halls</h1>
 
-<p align="center">개발을 좋아하는 사람입니다 :)<br>새로운 걸 배우고 만드는 걸 좋아해요!</p>
+<p align="center">개발 새내기입니다<br>GitHub에서 모내기중이에요</p>
 
 ---
 
