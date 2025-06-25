@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm LemonMint Halls!
+## jeon's WorkSpace!
 
 Welcome to my GitHub profile. I'm a developer passionate about learning and building cool stuff.
 
@@ -20,9 +20,9 @@ Welcome to my GitHub profile. I'm a developer passionate about learning and buil
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com
-- Blog: [yourblog.com](https://yourblog.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: joon28412@gmail.com
+- Blog: nothing
+- LinkedIn: Idontknow..
 
 ---
 
