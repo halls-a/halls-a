@@ -22,7 +22,7 @@
 
 ### 🐾 깃허브 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true&hide=issues&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=halls-a&show_icons=true&theme=default&hide_title=true&hide=issues&hide_border=true" />
 </p>
 
 ---
