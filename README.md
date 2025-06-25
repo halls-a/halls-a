@@ -1,4 +1,4 @@
-<h1 align="center">🍋 LemonMint Halls</h1>
+<h1 align="center">호올스 halls</h1>
 
 <p align="center">개발 새내기입니다<br>GitHub에서 모내기중이에요</p>
 
